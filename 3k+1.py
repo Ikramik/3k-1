@@ -1,4 +1,4 @@
-n = input ("get a number")
+n = input ("get a number : ")
 n = int (n)
 if n>1000:
     print("error")
